@@ -3,6 +3,8 @@ node_modules/*
 
 dist/
 
+SampleCode/
+
 # NPM errors
 npm-debug.log
 
